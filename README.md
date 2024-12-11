@@ -32,7 +32,7 @@ pip install -r requirements.txt
 ```
 
 ### 4. Download a Video
-Download a video for processing. You can:
+run the `data_download.py` it will download a sample video 
 - Use **Pixabay**, a free platform, and explore its [API documentation](https://pixabay.com/api/docs/) for video-related resources.
 - Alternatively, use a different platform of your choice to download the video.
 
