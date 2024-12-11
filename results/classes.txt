@@ -1,0 +1,5 @@
+person
+bird
+horse
+handbag
+skis
